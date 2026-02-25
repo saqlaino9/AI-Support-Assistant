@@ -140,4 +140,14 @@ Stores all user and assistant interactions.
 ---
 
 ## 📸 Screenshots
-*(Include 2-3 screenshots of your UI here: one showing a successful answer based on the docs, and one showing the "Sorry, I don't have information about that" fallback.)*
+
+<img width="1755" height="802" alt="image" src="https://github.com/user-attachments/assets/7ebcd704-76e1-4524-bf0c-32aa7e8641ee" />
+
+<img width="1755" height="802" alt="image" src="https://github.com/user-attachments/assets/eecfffbf-6a7b-4a62-8214-120173ab7174" />
+
+<img width="1755" height="802" alt="image" src="https://github.com/user-attachments/assets/7bd0a358-dcd3-4d01-aa7a-acfc0800ec8d" />
+
+<img width="1755" height="802" alt="image" src="https://github.com/user-attachments/assets/838e4791-a2da-4b7c-bec8-9e2eaad291ef" />
+
+
+
