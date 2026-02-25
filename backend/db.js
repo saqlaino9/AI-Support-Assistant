@@ -25,7 +25,7 @@ db.serialize(() => {
     content TEXT,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY(session_id) REFERENCES sessions(id)
-  )`);
+  )`); 
 });
 
 module.exports = db;
