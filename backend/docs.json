@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by navigating to Settings > Security and clicking on 'Reset Password'."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. Please contact support to initiate a refund."
+  },
+  {
+    "title": "Supported Browsers",
+    "content": "Our platform officially supports the latest versions of Google Chrome, Mozilla Firefox, and Safari."
+  }
+]
